@@ -1,11 +1,10 @@
 package SeleniumSessions;
 
-public class Demo {
+public class testww {
 
 	public static void main(String[] args) {
 
-		int i = 10;
-		System.out.println("pass" + i);
+		System.out.println("pass");
 	}
 
 }
