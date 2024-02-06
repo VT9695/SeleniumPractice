@@ -18,6 +18,7 @@ public class AmazonTest {
 		String url=	br.getAppCurrentUrl();
 		System.out.println("the URL of the page is ----"+url);
 		br.quitBrowser();
+		//new line added
 	}
 		
 

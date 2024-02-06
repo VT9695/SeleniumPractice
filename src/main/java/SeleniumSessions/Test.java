@@ -1,6 +1,6 @@
 package SeleniumSessions;
 
-public class Baba {
+public class Test {
 
 	public static void main(String[] args) {
 
