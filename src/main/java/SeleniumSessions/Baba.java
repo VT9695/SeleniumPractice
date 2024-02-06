@@ -17,10 +17,7 @@ public class Baba {
 			System.out.println("Matched -----Title");
 		}else
 			System.out.println("Title is not matched");
-		
-		String url=	br.getAppCurrentUrl();
-		System.out.println("the URL of the page is ----"+url);
-		br.quitBrowser();
+	
 		//new line added
 	}
 
